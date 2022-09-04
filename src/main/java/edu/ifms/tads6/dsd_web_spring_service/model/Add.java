@@ -1,4 +1,4 @@
-package edu.ifms.tads6.dsd_web_spring_service.domain;
+package edu.ifms.tads6.dsd_web_spring_service.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
